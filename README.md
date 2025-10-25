@@ -29,7 +29,8 @@ O usuário escolhe o tipo de senha:
 git clone https://github.com/seu-usuario/password-generator.git
 cd password-generator
 password_generator.py
-👤 Autor
-Feito por Pedr0zen
-📚 Estudante de Análise e Desenvolvimento de Sistemas
-💬 “Gerar senhas é fácil. Gerar aprendizado é o verdadeiro código forte.”
+
+## 👤 Autor
+- **Feito por Pedr0zen**
+- **📚 Estudante de Análise e Desenvolvimento de Sistemas**
+- **💬 “Gerar senhas é fácil. Gerar aprendizado é o verdadeiro código forte.”**
