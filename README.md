@@ -22,15 +22,15 @@ O usuário escolhe o tipo de senha:
 > 🔹 Números | 🔸 Letras | ⚫ Misturado  
 
 ---
+## 👤 Autor
+- **Feito por Pedr0zen**
+- **📚 Estudante de Análise e Desenvolvimento de Sistemas**
+- **💬 “Gerar senhas é fácil. Gerar aprendizado é o verdadeiro código forte.”**
 
+---
 ## ⚙️ Execução
 
 ```bash
 git clone https://github.com/seu-usuario/password-generator.git
 cd password-generator
 password_generator.py
-
-## 👤 Autor
-- **Feito por Pedr0zen**
-- **📚 Estudante de Análise e Desenvolvimento de Sistemas**
-- **💬 “Gerar senhas é fácil. Gerar aprendizado é o verdadeiro código forte.”**
