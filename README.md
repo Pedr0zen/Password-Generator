@@ -19,7 +19,8 @@ Um **gerador de senhas seguras e personalizadas**, criado para treinar:
 - Tratamento de erros com `try` / `except`
 
 O usuário escolhe o tipo de senha:  
-> 🔹 Números | 🔸 Letras | ⚫ Misturado  
+> 🔹 Números | 🔸 Letras | ⚫ Misturado
+> https://github.com/user-attachments/assets/bb7e9d06-71a8-48d5-9af0-4e464da2a637
 
 ---
 ## 👤 Autor
