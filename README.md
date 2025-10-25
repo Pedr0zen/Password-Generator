@@ -20,7 +20,9 @@ Um **gerador de senhas seguras e personalizadas**, criado para treinar:
 
 O usuário escolhe o tipo de senha:  
 > 🔹 Números | 🔸 Letras | ⚫ Misturado
-> https://github.com/user-attachments/assets/bb7e9d06-71a8-48d5-9af0-4e464da2a637
+<img width="1920" height="1080" alt="unknown_2025 10 25-12 49" src="https://github.com/user-attachments/assets/b6fc73f4-555e-4f84-9094-6e1500f6bf72" />
+
+
 
 ---
 ## 👤 Autor
